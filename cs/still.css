@@ -1,0 +1,40 @@
+.kutu1{
+  background-color: coral;
+  color: aliceblue;
+
+}
+*{
+  padding: 0%;
+  margin: 0%;
+}
+.kutu2{
+  background-color: cadetblue;
+  height: 350px ;
+}
+.kutu3{
+  background-color: coral;
+  height: 80px;
+}
+.menu{
+  position: absolute;
+
+      left: 1200px;
+      top: 7px;
+      
+}
+.movies{
+  position: absolute;
+  left: 1270px;
+      top: 7px;
+      
+}
+.contact{
+  position: absolute;
+  left: 1350px;
+      top: 7px;
+      
+}
+a{
+  text-decoration: none;
+  color: aliceblue;
+}
